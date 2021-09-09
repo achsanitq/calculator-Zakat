@@ -15,3 +15,7 @@ ini nampilin rumusnya
    ![rumus_zakfit](https://user-images.githubusercontent.com/89968678/132607894-1bf5e912-3386-4814-8e7f-639893645ba2.jpg)
 
 **udah gitu aja**
+
+# Requirement
+* python 3
+* Tkinter
